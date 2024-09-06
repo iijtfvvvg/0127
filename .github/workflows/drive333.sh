@@ -81,7 +81,7 @@
 /usr/local/bin/OneDriveUploader -c yyyiop619.json -s "www"
 /usr/local/bin/OneDriveUploader -c admin6207sd6m6.json -s "www"
 /usr/local/bin/OneDriveUploader -c microsoft420.json -s "www"
-/usr/local/bin/OneDriveUploader -c admin620.json -s "www"
+/usr/local/bin/OneDriveUploader -c admin6207vssp1.json -s "www"
 /usr/local/bin/OneDriveUploader -c badbad520.json -s "www"
 /usr/local/bin/OneDriveUploader -c tz210425.json -s "www"
 /usr/local/bin/OneDriveUploader -c pass621.json -s "www"
